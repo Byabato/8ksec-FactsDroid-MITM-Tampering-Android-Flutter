@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/8kSec-Android%20Exploitation-blueviolet?style=for-the-badge&logo=android" alt="8kSec Android Exploitation"/>
   <img src="https://img.shields.io/badge/Android-14%20(API%2034)-green?style=for-the-badge&logo=android" alt="Android 14"/>
   <img src="https://img.shields.io/badge/Frida-17.27.5-red?style=for-the-badge" alt="Frida"/>
@@ -9,18 +9,22 @@
 <h3 align="center">Dynamic Response Tampering on Flutter Android - 8kSec Challenge</h3>
 
 <p align="center">
-  <a href="https://github.com/Byabato"><img src="https://img.shields.io/badge/GitHub-Byabato-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-   <a href="https://www.linkedin.com/in/kelvin-byabato/"><img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Byabato-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/Byabato/8ksec-FactsDroid-MITM-Tampering-Android-Flutter"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+  <a href="https://www.linkedin.com/in/kelvin-byabato/"><img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Byabato-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:kelvinbyabato92@gmail.com"><img src="https://img.shields.io/badge/Email-kelvinbyabato92@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"/></a>
 </p>
 
---- 
+---
 
-- **Author:** Kelvin Byabato  
-- **Target Package:** `com.eightksec.factsdroid` (`FactsDroid.apk`)  
-- **Environment:** Android 14 (API 34, `x86_64` Google APIs AVD)
-- **Tools:** Frida `17.27.5`, `mitmproxy` (`mitmweb`), Docker
-- **Status:** ✅ Completed
+<div align="center">
+
+| **Author** | **Target Package** | **Environment** | **Tools** |
+| :--- | :--- | :--- | :--- |
+| Kelvin Byabato | `com.eightksec.factsdroid` | Android 14 (API 34) AVD | Frida, mitmproxy, Docker |
+
+**Status:** ✅ Completed & Compliant
+
+</div>
 
 ---
 
