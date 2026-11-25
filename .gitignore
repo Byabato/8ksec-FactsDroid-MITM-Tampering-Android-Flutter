@@ -1,0 +1,5 @@
+﻿# Binaries & Secrets
+*.apk
+frida-server-*
+.venv/
+.idea/
